@@ -321,18 +321,20 @@ class _UserFormState extends State<UserForm> {
       ),
       body: Container(
         margin: EdgeInsets.all(10),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            fnameInputField(),
-            emailInputField(),
-            passInputField(),
-            genderFormInput(),
-            SizedBox(
-              height: 10,
-            ),
-            submitButtom(),
-          ],
+        child: Form(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              fnameInputField(),
+              emailInputField(),
+              passInputField(),
+              genderFormInput(),
+              SizedBox(
+                height: 10,
+              ),
+              submitButtom(),
+            ],
+          ),
         ),
       ),
     );
