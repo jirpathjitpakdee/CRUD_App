@@ -1,0 +1,13 @@
+{
+    "users":[
+        {
+            "id":1,
+            "fullname":"Jirapath Jitpakdee",
+            "email":"aekik25@gmail.com",
+            "password":"4321zszs",
+            "imgUrl":"https://scontent.furt1-1.fna.fbcdn.net/v/t1.15752-9/301147770_858286022224813_3895215195771310122_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFUHZ4RX8qxArceTOMTNDSw7-QjBibzSA3v5CMGJvNIDTCdF1FB2t6KT10l0BJYpJKhrEFqCE3FPPvBi7RK6bdK&_nc_ohc=0oaRUC5gM7cAX-htiAg&_nc_ht=scontent.furt1-1.fna&oh=03_AdRN4Gf55Cue5rKTotdUKjeHdLgfa-8Drn3k_6ZMVUkmow&oe=65181901",
+            "gender":"Male"
+            
+        }
+    ]
+}
